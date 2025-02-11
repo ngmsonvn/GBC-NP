@@ -1,2 +1,2 @@
-# GBC-NP
-Network pharmacology &amp; Molecular docking of Green Bean Coffee for anti-obesity.
+# Network pharmacology &amp; Molecular docking of Green Bean Coffee for anti-obesity.
+
